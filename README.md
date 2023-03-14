@@ -4,3 +4,5 @@
 - git checkout nombranche = me permet de naviguer dans mes différentes branches
 - git checkout -b nombranche  = je créé une branche et je bascule dessus
 - git branch -d nombranche = supprimer la branche en local
+- SALUT JE SUIS BRICE
+- git merge nombranche = je suis sur une branche et je veux fusuionner un autre branche dessus
